@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public enum EnemyType{ basic, shield, fast };
+public enum EnemyType{ Archer, Pikeman, Shield, Knight };
 
 public class EnemyBase 
 {
